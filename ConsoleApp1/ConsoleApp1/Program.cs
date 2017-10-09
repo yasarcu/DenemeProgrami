@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             // Pull request
             // fetch
-            // Gene degistir
+            // Yasar degistirdi
             Console.WriteLine("Meraba Mete");
             Console.WriteLine("Meraba");
             Console.Read();
