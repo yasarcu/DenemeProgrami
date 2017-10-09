@@ -15,6 +15,7 @@ namespace ConsoleApp1
             // Yasar degistirdi
             Console.WriteLine("Meraba Mete");
             Console.WriteLine("Meraba");
+            Console.WriteLine("Meraba viola");
             Console.Read();
         }
     }
