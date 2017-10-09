@@ -1,0 +1,2 @@
+# DenemeProgrami
+Deneme amacli
