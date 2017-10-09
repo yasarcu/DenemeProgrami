@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             // Pull request
             // fetch
+            // Gene test
             Console.WriteLine("Meraba Mete");
             Console.WriteLine("Meraba");
             Console.Read();
