@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             // Pull request
             Console.WriteLine("Meraba Mete");
+            Console.WriteLine("Meraba");
             Console.Read();
         }
     }
